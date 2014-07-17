@@ -114,7 +114,363 @@ expressing difficult concepts. The blue liquid represents a program for increasi
 -When you leave make sure you lock the door. I'll call you latter... ta ta!
 
 [Page 58]-->Select 60pg-doc!
+-WHUP WHUP WHUP WHUP
+-WHUP WHUP
 
+-Well, mr. Aramaky--you need something from the foreign ministry?
+
+-Good morning sir!
+-It's about the gavel republic sir..
+
+-It could hardly be that important. We've given gavel an "e" ranking--6 for need, 1 for problems...
+... and they haven't gone nuclear yet.
+-Both economically and in terms of our foreign policy, they're a tiny, low-priority country. Used to be a military 
+government but they've been fairly democratic since the revolution...
+-As I recall, one of your men was in charge of teaching tactics to the troops in the revolution...
+
+-That a fact?
+
+-Colonel Malles, the boss of the former military government, is in our country now, supposedly seeking "medical 
+treatment..."
+
+-...but he's still sending aid to the military forces in his country. As a result, the forces under his influence still
+control the platinum deposits there.
+
+[Page 59]-->Select 61 pg-doc!
+-... and the secret meeting?
+
+-It's just the oda spinning its wheels.
+-It doesn't earn any of the money it uses after all. And nobody receiving it feels grateful, either, because they think
+they deserve it after being exploited...
+
+-Tough situation, isn't it? You know the mass media's going to leak some off-the-record statements...
+-So what's the government's position?
+
+-Gavel's in an extraordinary delicate position right now. If we're not careful, it'll be hard to control public opinion.
+-Either we kick out colonel Malles and continue to promote aid to the current government of Gavel, or we officially give
+him asylum and stop all aid...
+
+-It sure would be interesting to keep a close eye on the flow of that platinum money...
+
+-Ah, but we have to be careful not to waste taxpayers' funds.
+-Hmph... some "representative of the people." wonder why it always comes down to money...?
+-Now, there is someone who did give considerable guidance to the milirary government on tactics...
+
+[Page 60]-->Select 62 pg-doc!
+-Wha-?!
+
+-We've got special jurisdiction here... no agents from intelligence allowed!
+
+-Breaker!
+
+-Okay.
+
+-Beep -Beep
+
+-Simex mode?
+
+-Done.
+
+-Beep Beep
+
+-You're in the way, pal...!
+
+-Shit!
+
+-That's the foreign minister's interpreter.
+
+-I know... she and one of my men, Togusa, used to be an item.
+
+-A virus infiltrated her twenty-three minutes ago, and now we're trying to trace it back to the source and identify who did it.
+
+[Page 61]-->Select 63 pg-doc!
+-That's amazing... how was it discovered that a virus had been infiltrated in the first place?!
+
+-It's a victory for intelligence... it set a net and just waited...
+
+-With a trap set, and after twenty-three minutes, I still hasn't got them?
+
+-The perp likes to move around.
+-He changes location and every seven minutes infiltrates for five seconds each.
+-So in other words, she's going to participate in this dangerous game for us until we catch who did it, eh?
+
+-When'll the virus reach her ghost?
+
+-It's an ha-3.
+
+-Hmm... so a bit over two hours.
+
+-Ishikawa and Boma are in a car right now, trying to nail down the perp's location. I want you to rendezvous with them!
+
+[Page 62]-->Select 64 pg-doc!
+-Ya gotta tell me, major... I heard this from Mayumi, in security's armory, but I don't bel--
+
+-You mean that she's really sixty-two years old?
+
+-What? No shit!
+
+-So is it really true she can hit a pinhead with a 3.5" barrel seburo™ snab at 25 yards, firing twelve rounds in three 
+seconds?
+-Hey, Togusa, everyone can do that... except you and Saito.
+-Aw, c'mon... don't pick on me major.
+
+-With the human silhouettes she usually hits the mark at 100 yards.
+-Snabs are really designed to be used against the enemy at under five yards, but there's nothing that special about 
+what she can do...
+
+-But I've never even seen anyone do that at the shooting range! 'Course, I'm not special "a" rank myself...
+
+-What we really need, Togusa, is not sharpshooting skills, so much as the ability to get close enough to make sure the
+enemy can be killed.
+-If you want to play at long-range sniping, you can always go shoot an elephant at 500 miles with a miniature cruise
+missile...
+
+[Page 63]-->Select 65 pg-doc!
+-By the way, why are you using a revolver for your main gun?
+-CHAK
+-In a two-man cell, aren't you afraid of it jamming, even if you're carrying two guns?
+
+-I happen to like the M2007!
+
+-Seburo™ C-25: Think of it as an FN P90 with a lower magazine!
+
+-Well, as the one being backed-up, I'm more interested in being protected than in what gun you like best...
+-I'm the one in the line of fire, after all. Do me a favor, Togusa, and carry a 20-shot, 5mm Seburo™...
+
+-Yeah, yeah... shit.
+
+-And what the hell's this? This AS-11 shotgun's got a short range and can't even penetrate a car door! What good is it?
+Don't expect it to have any psychological effect on a pro, and for anything over 30 yards, you need an assault rifle
+anyway...
+
+-Hey, it'll go through a mercedes door--I've got it filled with slugs.
+-And indoors I can use it to blast a hole in walls...
+
+-Sure you're not confusing hunting humans with making mincemeat?
+-For close-range work and piercing power use the Seburo™, for walls and distance use a rifle!
+
+-Still, I really think I could use it...
+
+-Well, this time you won't need it.
+
+-We're tracing the hacker that infiltrated the foreign minister's interpreter.
+-His interpreter?! You mean--!!!?
+
+[Page 64]-->Select 66 pg-doc!
+-VRMMMM
+-Don't worry, Togusa. It's only two hours.
+-In other words, two hours from now we'll be able to cut the circuit to protect her from the HA-3
+-We've got until then to retrace the signal to find our man.
+
+-"HA-3"...? 
+
+-It's some sort of military AI created during world war IV...
+
+-But why the hell use something like that on her now?
+-Bastards!
+
+-Hey, eyes on the road!
+
+-In the old days, Asia and the EEC used different cyberbrain standards, and the HA-3 was only used by the enemy...
+-...but after the war, it formed a unified standard that worked with all machines.
+
+[Page 65]-->Select 67 pg-doc!
+-So what kind of virus is it?
+
+-KLIK
+
+-It's a personahijacker model. Alone it's harmless, but with the right genomes, it goes to work.
+-Recent models have a delay built in. Once they've infiltrated, they can't be traced back.
+-Good thing this is an old type.
+
+-What's so goddamn "good" about it?!
+
+-Relax, Togusa... she's going to be all right.
+
+-But what sort of asshole would do something like that to a sweet kid like her?
+
+-Your sentiments are touching, Togusa, but keep 'em on hold for now, okay?
+
+-Hey, I'm not a robot, major.
+
+-Ha!
+-That's why you're still a rookie...
+
+-After this, there's a scene where Mokoto takes over the driving and Togusa checks his gear and puts it on, but it was
+too much of a hassle to draw so I left it out...
+
+[Page 66]-->Select 68 pg-doc!
+-BRMMMM
+NO TOXIC WASTE ALLOWED
+-Telephone  BEEP BEEP BEEP
+
+-BRMMMM
+-HNFF!
+-SKSSH
+
+-Hey! C'mon!
+-BRMMM
+
+-Keep yer shorts on!!
+-BEEP BEEP
+
+[Page 67]-->Select 69 pg-doc!
+-We're already forty seconds late, idiot!!
+-Just gimme five goodamn seconds!
+
+-KCHAK
+
+-BAM!
+
+-Sorry' bout that!
+
+-heh heh 
+
+-Slack off and the whole city'll be covered in trash!
+-BAM!
+
+-Christ, no matter how much we collect, they keep making more...
+
+--So I never get to see my kids, and my wife threatens me with divorce...
+
+-She prob'ly thinks you're cheating on her...
+
+-Yeah, well, I'm worried about her...
+
+-VRMMM
+
+-Holy shit! Now that's going too far!
+
+-Looks like someone had quite a party...
+
+-If we were running restaurant row and it looked like this, we'd be dead...
+-So Whadda ya want? A medal?
+
+-KLINK
+
+[Page 68]-->Select 70 pg-doc!
+-Hello? Police? We've got another senior citizen abandoned on a trash pile. We're picking up the garbage around him...
+
+-Sure are a lot jungle crows around...
+
+-Attention, oh honorable "job-challenged" ones--stand back, we're gonna use a little anti-crow gas...
+
+-SHAKK SHAKKA
+
+-CAWW CAW CAW CAW
+
+-HOLY SHIT!
+
+-Ouch! Damn idiots even put broken glass in plastic bags!
+
+-SKRASSH
+
+-CAW!
+
+-That's weird... this hypo's got "for use by pathology department only" written on it...
+-If only we could get our bosses to buy us armored suits... we oughta go on strike like workers in foreign countries do...
+-I was better off when I was working at the sacred citizen's relief center...
+-SIGHHHH
+
+-OH, Ye poor proletariant--stop standing there like a busted robot and get your ass in gear!
+
+[Page 69]-->Select 71 pg-doc!
+-Don't use discriminatory language... 
+
+-What the hell do ya think this is?
+
+-SPISSH
+
+-A local resident's expression of gratitude!
+-This work's sort of like being a politician, hey?
+
+-Ain't never been one, so I wouldn't know. Let's get a move on!
+
+-VRMMM
+
+-Jeez... wish we'd get a vacation...
+
+-SKREEE
+-AA!
+-VRMM
+
+[Page 70]-->Select 72 pg-doc!
+-SKREEEE SKREEEE SKREEK!
+
+-CRAZY ASSHOLE!
+
+-HONK HONK
+
+-Us sanitation engineers aren't the only ones in a hurry, I guess...
+
+-Uh-Oh... If we get stuck at the next light we won't be able to make the dump site in seven minutes...
+
+-Step on it!
+
+-VRMM
+
+-VVRMMM SKREEEEE
+
+[Page 71]-->Select 73 pg-doc!
+-Dammit! We'll never make it on time!
+
+-The whole thing's stupid... even if we trace the infiltrator, by the time we get there he'll be gone...
+
+-Too much bitching'll negatively impact your eval and bonus, boys!
+-But chief, why don't you just fry him with an attack barrier?!
+
+-Major Kusanagi's headed for the next location. I want you boys to look for something...
+
+-Like what?! 
+
+-Like anything!
+
+-No organic garbage and no toxic waste allowed!
+
+-Goddamn old fart! What the hell does he want us to do? Just snoop around?
+
+-Wait a sec...
+
+-Say... where's the garbage truck...?
+
+-Hey, pops! You see one o'them sanitation vehicles around here?
+
+-You folks from the garbage department?
+
+[Page 72]-->Select 74 pg-doc!
+-I'm just asking if you saw one or not!
+
+-Yup, I saw one, but by the time I got out here with my trash it was gone.
+-One of them was carrying garbage, but the others was making a phone call...
+
+-SKREEE
+
+-Hey, wait! Take this--huh... damn garbage men these days...
+
+-VRMM
+
+-A sanitation vehicle?
+
+-Books -High Moleweek NP Type Cy Type Af 
+
+-Wanted - A BB-M Cyborg over 695
+-Any surface Okay 08-291-367
+-Piveho-Club
+
+-Get some information from sanitation department on this area!
+
+-Ok
+
+-Move! We gotta get there before they do!
+
+
+
+
+
+
+
+
+ 
 
 
 
